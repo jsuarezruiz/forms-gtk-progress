@@ -22,7 +22,8 @@ The Xamarin.Forms GTK backend adds support for **[Linux, MacOS and Windows](Plat
 
 ## Gallery
 
-![GTK Backend](Images/gtk-backend.png)
+![GTK Backend](images/gtk-backend.png)
+
 Looks good?. In the **[gallery](Gallery.md)** section you have a huge variety of screenshots on different platforms (Linux, MacOS & Windows) and devices (Laptops, Desktops or Raspberry Pis).
 
 ## Faq
