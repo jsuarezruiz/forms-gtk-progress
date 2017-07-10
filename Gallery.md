@@ -13,3 +13,5 @@
 ![Xuzzle demo running on Windows](images/xuzzle-windows.png)
 
 ![Connect 2016 Demo running on Windows](images/bikesharing-windows.png)
+
+![Localization](images/location-windows.png)
