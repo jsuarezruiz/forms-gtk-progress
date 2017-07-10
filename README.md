@@ -14,7 +14,7 @@ Curently, the GTK Backend allows to develop applications, but it is still in dev
 
 ## Platform Support
 
-The Xamarin.Forms GTK backend adds support for **[Linux, MacOS and Windows](Platform Support.md)**.
+The Xamarin.Forms GTK backend adds support for **[Linux, MacOS and Windows](Platform-Support.md)**.
 
 ## Roadmap
 
@@ -22,7 +22,7 @@ The Xamarin.Forms GTK backend adds support for **[Linux, MacOS and Windows](Plat
 
 ## Gallery
 
-![](Images/gtk-backend.png)
+![GTK Backend](Images/gtk-backend.png)
 Looks good?. In the **[gallery](Gallery.md)** section you have a huge variety of screenshots on different platforms (Linux, MacOS & Windows) and devices (Laptops, Desktops or Raspberry Pis).
 
 ## Faq
@@ -35,4 +35,4 @@ Please use **GitHub issues** for questions, comments, feature requests, or if wo
 
 ## How to Contribute
 
-Are you interesting?. You can **[contribute](How to Contribute)**!.
+Are you interesting?. You can **[contribute](How-Contribute)**!.
