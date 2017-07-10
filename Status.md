@@ -346,6 +346,8 @@ ValueChanged   | Done
 
 A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.Switch/) control that provides a toggled value.
 
+Property | Status
+------ | ------
 BackgroundColor   | Done  
 IsToggled   | Done  
 Toggled   | Done  
@@ -354,6 +356,8 @@ Toggled   | Done
 
 [Displays](https://developer.xamarin.com/api/type/Xamarin.Forms.TabbedPage/) an array of tabs across the top of the screen, each of which loads content onto the screen.
 
+Property | Status
+------ | ------
 BarBackgroundColor   | Done  
 BarTextColor   | Done  
 ItemsSource   | Done  
@@ -371,6 +375,8 @@ PagesChanged   | Done
 
 A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.TableView/) that holds rows of Cell elements.
 
+Property | Status
+------ | ------
 BackgroundColor   | Done  
 HasUnevenRows   | Done  
 TableIntent   | Done  
@@ -382,6 +388,8 @@ ContextActions   | Done
 
 A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.TimePicker/) control that provides time picking.
 
+Property | Status
+------ | ------
 BackgroundColor   | Done  
 Format   | Done  
 TextColor   | Done  
@@ -391,6 +399,8 @@ Time   | Done
 
 A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.WebView/) that presents HTML content.
 
+Property | Status
+------ | ------
 CanGoBack   | Done  
 CamGoForward   | Done  
 Source   | Done  
@@ -402,6 +412,8 @@ Navigating   | Done
 
 ### VisualElement
 
+Property | Status
+------ | ------
 BackgroundColor   | Done  
 AnchorX   | Pending  
 AnchorY   | Pending  
