@@ -31,7 +31,7 @@ Still with doubts or questions?. Do not worry, we have prepared a complete **[Fa
 
 ## Feedback
 
-Please use **GitHub issues** for questions, comments, feature requests, or if would like to vote on what others are recommending.
+Please use **[GitHub issues](https://github.com/jsuarezruiz/forms-gtk-progress/issues)** for questions, comments, feature requests, or if would like to vote on what others are recommending.
 
 ## How to Contribute
 

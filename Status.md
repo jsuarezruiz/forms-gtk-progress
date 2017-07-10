@@ -53,3 +53,25 @@ Image   | Done
 Clicked   | Done  
 Pressed   | Done  
 Released   | Done  
+
+### CarouselPage
+
+The Xamarin.Forms [CarouselPage](https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/navigation/carousel-page/) is a page that users can swipe from side to side to navigate through pages of content, like a gallery. 
+
+Property | Status
+------ | ------
+ItemsSource   | Done  
+ItemTemplate   | Done  
+CurrentPage   | Done  
+Children   | Done  
+BackgrondImage   | Done  
+Icon   | Done  
+IsBusy   | Done  
+Padding   | Done  
+Tittle   | Done  
+ToolbarItems   | Done  
+CurrentPageChanged   | Done  
+PagesChanged   | Done  
+LayoutChanged   | Done  
+Appearing   | Done  
+Disappearing   | Done  

@@ -2,14 +2,14 @@
 
 ## Linux
 
-![](Images/calculator-pi.png)
+![](http://github.com/jsuarezruiz/forms-gtk-progress/blob/master/images/calculator-pi.png)
 
-![](Images/bikesharing-pi.png)
+![](http://github.com/jsuarezruiz/forms-gtk-progress/blob/master/images/bikesharing-pi.png)
 
 ## MacOS
 
 ## Windows
 
-![](Images/xuzzle-windows.png)
+![](http://github.com/jsuarezruiz/forms-gtk-progress/blob/master/images/xuzzle-windows.png)
 
-![](Images/bikesharing-windows.png)
+![](http://github.com/jsuarezruiz/forms-gtk-progress/blob/master/images/bikesharing-windows.png)
