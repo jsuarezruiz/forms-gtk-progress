@@ -47,4 +47,4 @@ Please use **[GitHub issues](https://github.com/jsuarezruiz/forms-gtk-progress/i
 
 ## How to Contribute
 
-Are you interesting?. You can **[contribute](How-Contribute)**!.
+Are you interesting?. You can **[contribute](How-Contribute.md)**!.
