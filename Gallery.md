@@ -2,18 +2,13 @@
 
 ## Linux
 
-<img src="images/bikesharing-pi.png" alt="Connect 2016 Demo running on Raspbian" Width="210" />
-<img src="images/calculator-pi.png" alt="Sample Calculator running on Raspbian" Width="210" />
-<img src="images/tipcalc-raspbian.gif" alt="Sample Calculator running on Raspbian" Width="210" />
-<img src="images/map-zooms-linux.gif" alt="Sample Calculator running on Raspbian" Width="210" />
-<img src="images/webview.png" alt="Eval WebView running on Ubuntu" Width="210" />
-<img src="images/webview-eval.png" alt="Eval JavaScript in WebView" Width="210" />
-<img src="images/webview-local.png" alt="Local HTML in WebView" Width="210" />
-<img src="images/grid-gallery-linux.png" alt="Grid Sample running on Linux" Width="210" />
-<img src="images/search-linux.png" alt="Search Sample running on Linux" Width="210" />
-<img src="images/unevenlist-linux.png" alt="UnevenList Sample running on Linux" Width="210" />
-<img src="images/datepicker-linux.png" alt="DatePicker Sample running on Linux" Width="210" />
-<img src="images/context-actions-linux.png" alt="Context Actions Sample running on Linux" Width="210" />
+| <img src="images/bikesharing-pi.png" alt="Connect 2016 Demo running on Raspbian" Width="210" /> | <img src="images/calculator-pi.png" alt="Sample Calculator running on Raspbian" Width="210" /> | <img src="images/tipcalc-raspbian.gif" alt="Sample Calculator running on Raspbian" Width="210" /> | <img src="images/map-zooms-linux.gif" alt="Sample Calculator running on Raspbian" Width="210" /> | 
+| <img src="images/webview.png" alt="Eval WebView running on Ubuntu" Width="210" /> | <img src="images/webview-eval.png" alt="Eval JavaScript in WebView" Width="210" /> | <img src="images/webview-local.png" alt="Local HTML in WebView" Width="210" /> | <img src="images/grid-gallery-linux.png" alt="Grid Sample running on Linux" Width="210" /> |
+| <img src="images/search-linux.png" alt="Search Sample running on Linux" Width="210" /> | <img src="images/search-linux.png" alt="Search Sample running on Linux" Width="210" /> | <img src="images/unevenlist-linux.png" alt="UnevenList Sample running on Linux" Width="210" /> | <img src="images/datepicker-linux.png" alt="DatePicker Sample running on Linux" Width="210" /> |
+| <img src="images/context-actions-linux.png" alt="Context Actions Sample running on Linux" Width="210" /> |   |   |   |
+|   |   |   |   |
+
+
 <img src="images/list-colors-linux.png" alt="Cell BackgrondColor Sample running on Linux" Width="210" />
 <img src="images/actionsheet-linux.png" alt="ActionSheet Sample running on Linux" Width="210" />
 <img src="images/styles-linux.png" alt="Styles Sample running on Linux" Width="210" />
