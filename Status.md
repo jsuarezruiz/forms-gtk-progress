@@ -1,5 +1,9 @@
 # Status
 
+### Performance and Quality
+
+Quality is top of the list of priorities. This means stability and performance first and foremost. Constant testing  on a huge volume of samples to achieve this goal.
+
 ### ActivityIndicator
 
 The [ActivityIndicator](https://developer.xamarin.com/api/type/Xamarin.Forms.ActivityIndicator/) control gives a visual clue to the user that something is happening, without information about its progress.
