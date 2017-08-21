@@ -45,6 +45,10 @@ Still with doubts or questions?. Do not worry, we have prepared a complete **[Fa
 
 Please use **[GitHub issues](https://github.com/jsuarezruiz/forms-gtk-progress/issues)** for questions, comments, feature requests, or if would like to vote on what others are recommending.
 
+## How can I try?
+
+If you want to [**try**](How-Compile.md) everything, let's see how to compile and test on each platform.
+
 ## How to Contribute
 
 Are you interesting?. You can **[contribute](How-Contribute.md)**!.
