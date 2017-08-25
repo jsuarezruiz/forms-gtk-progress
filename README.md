@@ -13,6 +13,11 @@ Xamarin.Forms GTK Backend |
 [Xamarin.Forms.Platform.GTK](https://github.com/jsuarezruiz/Xamarin.Forms/tree/gtk) |
 [Xamarin Forms Samples (include GTK Backend)](https://github.com/jsuarezruiz/xamarin-forms-samples/tree/gtk) |
 
+Xamarin.Forms GTK Backend Samples | 
+------ | 
+[Movies](https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample) |
+[Temperature Monitor](https://github.com/jsuarezruiz/xamarin-forms-gtk-iot-samples) |
+
 ## Xamarin.Forms
 
 Xamarin.Forms provides a way to quickly build native apps for iOS, Android, Windows, macOS and Linux, completely in C#.
