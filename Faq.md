@@ -47,6 +47,12 @@ Internally the Map control makes use of [GMaps.NET](https://github.com/radioman/
 
 Is recommended reading the [Getting Started](Getting-Started.md) section. Basically, you need to sync and compile the repository to access to the `Xamarin.Forms.Platforms.GTK.dll` library.
 
+**I have tried the backend, in Linux I have problems to perform http requests. What can I do?**
+
+You would need to install trusted roots certificate from Mozilla as below: 
+
+    sudo mozroots --import --ask-remove --machine
+
 **How will I use the Xamarin.Forms GTK Backend in the future?**
 
 Like the rest of platforms. Using NuGet packages and project templates.
