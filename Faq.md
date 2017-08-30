@@ -47,6 +47,12 @@ Internally the Map control makes use of [GMaps.NET](https://github.com/radioman/
 
 Is recommended reading the [Getting Started](Getting-Started.md) section. Basically, you need to sync and compile the repository to access to the `Xamarin.Forms.Platforms.GTK.dll` library.
 
+**How do I make the WebView work?**
+
+The Xamarin.Forms GTK backend makes use of [webkit-sharp](https://github.com/mono/webkit-sharp). If you do not have it installed, you must install `libwebkit-dev package`:
+
+    sudo apt-get install libwebkit-dev
+
 **I have tried the backend, in Linux I have problems to perform http requests. What can I do?**
 
 You would need to install trusted roots certificate from Mozilla as below: 
