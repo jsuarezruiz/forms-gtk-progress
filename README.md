@@ -17,6 +17,7 @@ Xamarin.Forms GTK Backend Samples |
 ------ | 
 [Movies](https://github.com/jsuarezruiz/xamarin-forms-gtk-movies-sample) |
 [Temperature Monitor](https://github.com/jsuarezruiz/xamarin-forms-gtk-iot-samples) |
+[WeatherApp](https://github.com/jsuarezruiz/xamarin-forms-gtk-weather-sample) |
 
 ## Xamarin.Forms
 
@@ -27,6 +28,8 @@ Read more about the platform at [https://www.xamarin.com/forms](https://www.xama
 ## Status
 
 Curently, the GTK Backend allows to develop applications, but it is still in development. If you want to know in detail the **status**, navigate to the [Status section](Status.md).
+
+You could also see the section [Pending & Known Issues](Issues-Pending.md).
 
 ## Platform Support
 

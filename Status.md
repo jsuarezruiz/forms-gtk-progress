@@ -52,7 +52,7 @@ FontFamily   | Done
 FontAttributes   | Done  
 BorderWidth   | Done  
 BorderColor   | Done  
-BorderRadius   | Pending  
+BorderRadius   | Done  
 Image   | Done  
 Clicked   | Done  
 Pressed   | Done  
@@ -159,7 +159,7 @@ Property | Status
 BackgroundColor   | Done  
 Source   | Done  
 Aspect   | Done  
-IsOpaque   | Pending  
+IsOpaque   | None  
 IsLoading   | Done  
 
 Supported FileSource, StreamSource and UriSource.
@@ -172,7 +172,7 @@ A [Label](https://developer.xamarin.com/api/type/Xamarin.Forms.Label/) is used t
 Property | Status
 ------ | ------
 BackgroundColor   | Done  
-IsEnabled   | Pending  
+IsEnabled   | Done  
 FormattedText   | Done
 HorizontalTextAlignment   | Done  
 LineBreakMode   | Done  
@@ -182,8 +182,8 @@ VerticalTextAlignment   | Done
 FontAttributes   | Done  
 FontFamily   | Done  
 FontSize   | Done  
-XAlign   | Pending  
-YAlign   | Pending  
+XAlign   | Done  
+YAlign   | Done  
 
 ### ListView
 
@@ -221,7 +221,7 @@ A [Page](https://developer.xamarin.com/api/type/Xamarin.Forms.MasterDetailPage/)
 Property | Status
 ------ | ------
 Detail   | Done  
-IsGestureEnabled   | Pending  
+IsGestureEnabled   | None  
 IsPresented   | Done  
 Master   | Done  
 MasterBehavior   | Done  
@@ -419,8 +419,8 @@ Navigating   | Done
 Property | Status
 ------ | ------
 BackgroundColor   | Done  
-AnchorX   | Pending  
-AnchorY   | Pending  
+AnchorX   | Done  
+AnchorY   | Done  
 IsEnabled   | Done  
 IsFocused   | Done  
 IsVisible   | Done
