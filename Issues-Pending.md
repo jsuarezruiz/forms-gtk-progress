@@ -7,7 +7,3 @@ Use **[GitHub issues](https://github.com/jsuarezruiz/forms-gtk-progress/issues)*
 - RotationX 
 - RotationY 
 - Scale 
-
-## Known Issues ##
-
-- To Wrap the text of a Label, it is necessary to have HorizontalOptions set to Start.
