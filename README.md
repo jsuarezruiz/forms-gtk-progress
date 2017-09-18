@@ -10,7 +10,7 @@ Gtk# is a Graphical User Interface Toolkit for Mono and .Net. The project binds 
 
 Xamarin.Forms GTK Backend | 
 ------ | 
-[Xamarin.Forms.Platform.GTK](https://github.com/jsuarezruiz/Xamarin.Forms/tree/gtk) |
+[Xamarin.Forms.Platform.GTK](https://github.com/PlainConcepts/Xamarin.Forms/tree/gtk) |
 [Xamarin Forms Samples (include GTK Backend)](https://github.com/jsuarezruiz/xamarin-forms-samples/tree/gtk) |
 
 Xamarin.Forms GTK Backend Samples | 
@@ -19,6 +19,10 @@ Xamarin.Forms GTK Backend Samples |
 [Temperature Monitor](https://github.com/jsuarezruiz/xamarin-forms-gtk-iot-samples) |
 [WeatherApp](https://github.com/jsuarezruiz/xamarin-forms-gtk-weather-sample) |
 [XAML Live Editor](https://github.com/jsuarezruiz/FormsGtkLive) |
+
+<p align="center">
+<img src="images/weather-debug-linux.gif" />
+</p>
 
 ## Xamarin.Forms
 
