@@ -18,6 +18,10 @@ Features:
 
 Gtk # 2.12 is used. There are differents Xamarin and community tools developed with Gtk# 2. 
 
+**Why has not Gtk# version 3.0 already been used?**
+
+At the time of evaluating the choice, Gtk# 3 had some pending bindings, etc.
+
 **What platforms are supported?**
 
 Linux, MacOS and Windows are supported. This includes not just diversity on desktop platforms. For example, Windows XP, Windows 7, Windows 8 or Windows 10 in the case of Windows. Also diversity of devices. Run a Xamarin.Forms app on a raspberry pi?. Yes!
