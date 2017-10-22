@@ -19,6 +19,7 @@ Xamarin.Forms GTK Backend Samples |
 [Temperature Monitor](https://github.com/jsuarezruiz/xamarin-forms-gtk-iot-samples) |
 [WeatherApp](https://github.com/jsuarezruiz/xamarin-forms-gtk-weather-sample) |
 [XAML Live Editor](https://github.com/jsuarezruiz/FormsGtkLive) |
+[Forms Embedding Gtk](https://github.com/jsuarezruiz/forms-embedding-gtk) |
 
 <p align="center">
 <img src="images/weather-debug-linux.gif" />
