@@ -10,8 +10,7 @@ Gtk# is a Graphical User Interface Toolkit for Mono and .Net. The project binds 
 
 Xamarin.Forms GTK Backend | 
 ------ | 
-[Xamarin.Forms.Platform.GTK](https://github.com/PlainConcepts/Xamarin.Forms/tree/gtk) |
-[Xamarin Forms Samples (include GTK Backend)](https://github.com/jsuarezruiz/xamarin-forms-samples/tree/gtk) |
+[Xamarin.Forms.Platform.GTK](https://github.com/xamarin/Xamarin.Forms/tree/master/Xamarin.Forms.Platform.GTK) |
 
 Xamarin.Forms GTK Backend Samples | 
 ------ | 
