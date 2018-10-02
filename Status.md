@@ -90,7 +90,7 @@ BackgroundColor   | Done
 Appearing   | Done  
 Disappearing   | Done  
 
-DatePicker
+### DatePicker
 
 The visual representation of a [DatePicker](https://developer.xamarin.com/api/type/Xamarin.Forms.DatePicker/) is very similar to the one of Entry, except that a special control for picking a date appears in place of a keyboard.
 
