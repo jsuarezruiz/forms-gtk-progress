@@ -1,6 +1,6 @@
 # Pending & Known Issues
 
-Use **[GitHub issues](https://github.com/jsuarezruiz/forms-gtk-progress/issues)** to report new bugs. See [FAQ](https://github.com/jsuarezruiz/forms-gtk-progress/faq) for solutions to common issues.
+Use **[GitHub issues](https://github.com/xamarin/Xamarin.Forms/labels/p%2Fgtk)** to report new bugs. Make sure to use the label **gtk**. See [FAQ](Faq.md) for solutions to common issues.
 
 ## Pending
 
