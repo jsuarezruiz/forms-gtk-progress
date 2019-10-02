@@ -4,7 +4,7 @@
 
 **Install the latest version of Mono**
 
-Mono is a cross- platform, open source .Net platform.To build Xamarin.Forms under Linux, you need to have a recent version of Mono installed. You can find a great [installation instructions](http://www.mono-project.com/docs/getting-started/install/linux/) for many popular Linux distros.
+Mono is a cross-platform, open source .Net platform.To build Xamarin.Forms under Linux, you need to have a recent version of Mono installed. You can find a great [installation instructions](http://www.mono-project.com/docs/getting-started/install/linux/) for many popular Linux distros.
 
 Once you have your package manager configured for the Mono repository, install the `mono-devel` package, for example on ubuntu:
 

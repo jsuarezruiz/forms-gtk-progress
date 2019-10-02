@@ -1,6 +1,6 @@
 # Roadmap
 
-To view the latest Roadmap and enter the discussion, visit the [Roadmap forum thread](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap/p1).
+You can view the latest Roadmap [here](https://github.com/xamarin/Xamarin.Forms/wiki/Feature-Roadmap) and enter the discussion on our [Roadmap forum thread](https://forums.xamarin.com/discussion/85747/xamarin-forms-feature-roadmap/p1).
 
 ## Disclaimer
 

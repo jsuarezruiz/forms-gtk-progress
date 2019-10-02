@@ -34,7 +34,7 @@ Read more about the platform at [https://www.xamarin.com/forms](https://www.xama
 
 ## Status
 
-Curently, the GTK Backend allows to develop applications, but it is still in development. If you want to know in detail the **status**, navigate to the [Status section](Status.md).
+Currently, the GTK Backend allows to develop applications, but it is still in development. If you want to know in detail the **status**, navigate to the [Status section](Status.md).
 
 You could also see the section [Pending & Known Issues](Issues-Pending.md).
 

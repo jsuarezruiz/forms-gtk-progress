@@ -16,7 +16,7 @@ Features:
 
 **What version of Gtk# is used?**
 
-Gtk # 2.12 is used. There are differents Xamarin and community tools developed with Gtk# 2. 
+Gtk# 2.12 is used. There are different Xamarin and community tools developed with Gtk# 2. 
 
 **Why has not Gtk# version 3.0 already been used?**
 
@@ -35,9 +35,9 @@ All pages, layouts and controls (including maps) are supported on the GTK backen
 
 Effects, Platforms Specifics, or Forms Embedding are supported options.
 
-**Can I extend functionallity to new platforms by creating new controls?**
+**Can I extend functionality to new platforms by creating new controls?**
 
-Absolutely!. You can create effects or custom renders in the same way as iOS or Android.
+Absolutely! You can create effects or custom renders in the same way as iOS or Android.
 
 **What has been used with the WebView control?**
 
