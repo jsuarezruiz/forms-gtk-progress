@@ -68,7 +68,7 @@ ItemsSource   | Done
 ItemTemplate   | Done  
 CurrentPage   | Done  
 Children   | Done  
-BackgrondImage   | Done  
+BackgroundsImage   | Done  
 Icon   | Done  
 IsBusy   | Done  
 Padding   | Done  
@@ -149,7 +149,6 @@ BackgroundColor   | Done
 outlineColor   | Done  
 HasShadow   | Done  
 
-
 ### Image
 
 [View](https://developer.xamarin.com/api/type/Xamarin.Forms.Image/) that holds an image.
@@ -163,7 +162,6 @@ IsOpaque   | None
 IsLoading   | Done  
 
 Supported FileSource, StreamSource and UriSource.
-
 
 ### Label
 
@@ -212,7 +210,7 @@ ItemAppearing   | Done
 ItemDisappearing   | Done  
 ItemSelected   | Done  
 ItemTapped   | Done  
-Refresing   | Done  
+Refreshing   | Done  
 
 ### MasterDetailPage
 
@@ -259,7 +257,6 @@ A [View](https://developer.xamarin.com/api/type/Xamarin.Forms.OpenGLView/) that 
 Property | Status
 ------ | ------
 HasRenderLoop   | Done  
-
 
 ### Picker
 
@@ -313,7 +310,7 @@ CancelButtonColor   | Done
 Placeholder   | Done  
 FontFamily   | Done  
 FontSize   | Done  
-FontAtttributes   | Done  
+FontAttributes   | Done  
 HorizontalTextAlignment   | Done  
 TextColor   | Done  
 PlaceholderColor   | Done  
@@ -415,6 +412,8 @@ Navigated   | Done
 Navigating   | Done  
 
 ### VisualElement
+
+A [Element](https://docs.microsoft.com/en-us/dotnet/api/xamarin.forms.visualelement?view=xamarin-forms) that occupies an area on the screen, has a visual appearance, and can obtain touch input.
 
 Property | Status
 ------ | ------

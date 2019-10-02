@@ -51,7 +51,6 @@ If you plan on developing applications, we suggest that you also install the [Vi
 
 ![Install Mono](images/vs-macos.png)
 
-
 ### Raspberry PI
 
 Raspberry Pi is capable of running a full Linux distribution. One of the most used options is [Raspbian](https://www.raspberrypi.org/downloads/raspbian/).
@@ -80,4 +79,4 @@ Mono runs on Windows, [download](http://www.mono-project.com/download/) the late
 
 Gtk# is included as part of the Mono installation.
 
-Open the output of a Xamarin.Forms GTK# Backend application and double clic the .exe file.
+Open the output of a Xamarin.Forms GTK# Backend application and double click the .exe file.
