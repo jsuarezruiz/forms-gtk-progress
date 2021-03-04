@@ -55,7 +55,7 @@ Is recommended reading the [Getting Started](Getting-Started.md) section. Basica
 
 The Xamarin.Forms GTK backend makes use of [webkit-sharp](https://github.com/mono/webkit-sharp). If you do not have it installed, you must install `libwebkit-dev package`:
 
-    sudo apt-get install libwebkit-dev
+    sudo apt-get install libwebkitgtk-dev
 
 **I have tried the backend, in Linux I have problems to perform http requests. What can I do?**
 
